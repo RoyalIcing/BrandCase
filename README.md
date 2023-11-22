@@ -1,6 +1,6 @@
 # BrandCase
 
-Ever get annoyed seeing “Youtube” instead of “YouTube”? Me too. Here’s a list of brands with the correct casing.
+Ever get annoyed seeing “Youtube” instead of “YouTube”? Me too. Here’s a list of brands with the correct casing and space separator.
 
 ----
 
@@ -12,9 +12,11 @@ Ordered `a-zA-Z`
 - macOS
 - visionOS
 - watchOS
+- CSS3
 - GitHub
 - GitLab
 - GraphQL
+- HTML5
 - MySQL
 - NGINX
 - PageSpeed
@@ -27,6 +29,7 @@ Ordered `a-zA-Z`
 - URL
 - Web Worker
 - WebAssembly
+- WebGL
 - WebSocket
 - Wikipedia
 - Xcode
