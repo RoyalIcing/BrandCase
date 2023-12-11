@@ -26,6 +26,7 @@ Ordered `a-zA-Z`
 - REST
 - SpaceX
 - Stack Overflow
+- SQLite
 - URL
 - Web Worker
 - WebAssembly
