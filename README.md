@@ -12,7 +12,9 @@ Ordered `a-zA-Z`
 - macOS
 - visionOS
 - watchOS
+- CouchDB
 - CSS3
+- FoundationDB
 - GitHub
 - GitLab
 - GraphQL
