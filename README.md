@@ -37,3 +37,9 @@ Ordered `a-zA-Z`
 - Wikipedia
 - Xcode
 - YouTube
+
+----
+
+## See also
+
+- [Daring Fireball Style Guide](https://daringfireball.net/misc/df-style-guide.text)
